@@ -1,0 +1,2 @@
+Final validation loss: 1.104284405708313
+Final validation MAE: 0.7759043574333191

@@ -1,0 +1,101 @@
+Epoch 1/50
+533/533 - 1s - 3ms/step - loss: 2.9330 - mae: 1.2301 - mse: 2.9330 - val_loss: 1.6604 - val_mae: 1.0046 - val_mse: 1.6604
+Epoch 2/50
+533/533 - 1s - 2ms/step - loss: 1.5512 - mae: 0.9574 - mse: 1.5512 - val_loss: 1.5053 - val_mae: 0.9467 - val_mse: 1.5053
+Epoch 3/50
+533/533 - 1s - 1ms/step - loss: 1.4422 - mae: 0.9193 - mse: 1.4422 - val_loss: 1.4156 - val_mae: 0.9118 - val_mse: 1.4156
+Epoch 4/50
+533/533 - 1s - 1ms/step - loss: 1.3758 - mae: 0.8954 - mse: 1.3758 - val_loss: 1.4913 - val_mae: 0.9348 - val_mse: 1.4913
+Epoch 5/50
+533/533 - 1s - 1ms/step - loss: 1.3091 - mae: 0.8714 - mse: 1.3091 - val_loss: 1.3464 - val_mae: 0.8876 - val_mse: 1.3464
+Epoch 6/50
+533/533 - 1s - 1ms/step - loss: 1.2586 - mae: 0.8538 - mse: 1.2586 - val_loss: 1.2856 - val_mae: 0.8582 - val_mse: 1.2856
+Epoch 7/50
+533/533 - 1s - 1ms/step - loss: 1.2247 - mae: 0.8406 - mse: 1.2247 - val_loss: 1.2583 - val_mae: 0.8502 - val_mse: 1.2583
+Epoch 8/50
+533/533 - 1s - 1ms/step - loss: 1.1844 - mae: 0.8220 - mse: 1.1844 - val_loss: 1.2736 - val_mae: 0.8574 - val_mse: 1.2736
+Epoch 9/50
+533/533 - 1s - 1ms/step - loss: 1.1529 - mae: 0.8129 - mse: 1.1529 - val_loss: 1.3239 - val_mae: 0.8749 - val_mse: 1.3239
+Epoch 10/50
+533/533 - 1s - 1ms/step - loss: 1.1150 - mae: 0.7975 - mse: 1.1150 - val_loss: 1.2366 - val_mae: 0.8393 - val_mse: 1.2366
+Epoch 11/50
+533/533 - 1s - 1ms/step - loss: 1.0926 - mae: 0.7884 - mse: 1.0926 - val_loss: 1.2078 - val_mae: 0.8334 - val_mse: 1.2078
+Epoch 12/50
+533/533 - 1s - 1ms/step - loss: 1.0781 - mae: 0.7825 - mse: 1.0781 - val_loss: 1.2395 - val_mae: 0.8459 - val_mse: 1.2395
+Epoch 13/50
+533/533 - 1s - 1ms/step - loss: 1.0688 - mae: 0.7770 - mse: 1.0688 - val_loss: 1.2017 - val_mae: 0.8297 - val_mse: 1.2017
+Epoch 14/50
+533/533 - 1s - 1ms/step - loss: 1.0385 - mae: 0.7642 - mse: 1.0385 - val_loss: 1.1879 - val_mae: 0.8230 - val_mse: 1.1879
+Epoch 15/50
+533/533 - 1s - 1ms/step - loss: 1.0377 - mae: 0.7641 - mse: 1.0377 - val_loss: 1.1771 - val_mae: 0.8210 - val_mse: 1.1771
+Epoch 16/50
+533/533 - 1s - 1ms/step - loss: 1.0244 - mae: 0.7580 - mse: 1.0244 - val_loss: 1.2283 - val_mae: 0.8402 - val_mse: 1.2283
+Epoch 17/50
+533/533 - 1s - 1ms/step - loss: 1.0140 - mae: 0.7538 - mse: 1.0140 - val_loss: 1.1675 - val_mae: 0.8138 - val_mse: 1.1675
+Epoch 18/50
+533/533 - 1s - 1ms/step - loss: 0.9971 - mae: 0.7467 - mse: 0.9971 - val_loss: 1.1876 - val_mae: 0.8240 - val_mse: 1.1876
+Epoch 19/50
+533/533 - 1s - 2ms/step - loss: 0.9905 - mae: 0.7437 - mse: 0.9905 - val_loss: 1.1548 - val_mae: 0.8081 - val_mse: 1.1548
+Epoch 20/50
+533/533 - 1s - 1ms/step - loss: 0.9676 - mae: 0.7336 - mse: 0.9676 - val_loss: 1.1578 - val_mae: 0.8119 - val_mse: 1.1578
+Epoch 21/50
+533/533 - 1s - 1ms/step - loss: 0.9647 - mae: 0.7312 - mse: 0.9647 - val_loss: 1.1794 - val_mae: 0.8129 - val_mse: 1.1794
+Epoch 22/50
+533/533 - 1s - 1ms/step - loss: 0.9513 - mae: 0.7251 - mse: 0.9513 - val_loss: 1.1561 - val_mae: 0.8089 - val_mse: 1.1561
+Epoch 23/50
+533/533 - 1s - 1ms/step - loss: 0.9449 - mae: 0.7237 - mse: 0.9449 - val_loss: 1.1473 - val_mae: 0.8056 - val_mse: 1.1473
+Epoch 24/50
+533/533 - 1s - 1ms/step - loss: 0.9337 - mae: 0.7175 - mse: 0.9337 - val_loss: 1.1372 - val_mae: 0.7951 - val_mse: 1.1372
+Epoch 25/50
+533/533 - 1s - 1ms/step - loss: 0.9351 - mae: 0.7180 - mse: 0.9351 - val_loss: 1.1200 - val_mae: 0.7917 - val_mse: 1.1200
+Epoch 26/50
+533/533 - 1s - 1ms/step - loss: 0.9195 - mae: 0.7116 - mse: 0.9195 - val_loss: 1.1395 - val_mae: 0.7973 - val_mse: 1.1395
+Epoch 27/50
+533/533 - 1s - 1ms/step - loss: 0.9197 - mae: 0.7112 - mse: 0.9197 - val_loss: 1.1410 - val_mae: 0.7983 - val_mse: 1.1410
+Epoch 28/50
+533/533 - 1s - 1ms/step - loss: 0.9098 - mae: 0.7056 - mse: 0.9098 - val_loss: 1.1262 - val_mae: 0.8006 - val_mse: 1.1262
+Epoch 29/50
+533/533 - 1s - 1ms/step - loss: 0.9019 - mae: 0.7018 - mse: 0.9019 - val_loss: 1.1337 - val_mae: 0.7986 - val_mse: 1.1337
+Epoch 30/50
+533/533 - 1s - 1ms/step - loss: 0.8934 - mae: 0.7007 - mse: 0.8934 - val_loss: 1.1479 - val_mae: 0.8079 - val_mse: 1.1479
+Epoch 31/50
+533/533 - 1s - 1ms/step - loss: 0.8888 - mae: 0.6953 - mse: 0.8888 - val_loss: 1.1173 - val_mae: 0.7888 - val_mse: 1.1173
+Epoch 32/50
+533/533 - 1s - 1ms/step - loss: 0.8877 - mae: 0.6984 - mse: 0.8877 - val_loss: 1.1593 - val_mae: 0.8120 - val_mse: 1.1593
+Epoch 33/50
+533/533 - 1s - 1ms/step - loss: 0.8693 - mae: 0.6898 - mse: 0.8693 - val_loss: 1.1667 - val_mae: 0.8105 - val_mse: 1.1667
+Epoch 34/50
+533/533 - 1s - 1ms/step - loss: 0.8687 - mae: 0.6882 - mse: 0.8687 - val_loss: 1.1174 - val_mae: 0.7935 - val_mse: 1.1174
+Epoch 35/50
+533/533 - 1s - 2ms/step - loss: 0.8661 - mae: 0.6885 - mse: 0.8661 - val_loss: 1.1302 - val_mae: 0.7870 - val_mse: 1.1302
+Epoch 36/50
+533/533 - 1s - 2ms/step - loss: 0.8636 - mae: 0.6835 - mse: 0.8636 - val_loss: 1.1279 - val_mae: 0.7922 - val_mse: 1.1279
+Epoch 37/50
+533/533 - 1s - 1ms/step - loss: 0.8524 - mae: 0.6769 - mse: 0.8524 - val_loss: 1.1147 - val_mae: 0.7832 - val_mse: 1.1147
+Epoch 38/50
+533/533 - 1s - 1ms/step - loss: 0.8533 - mae: 0.6809 - mse: 0.8533 - val_loss: 1.1201 - val_mae: 0.7900 - val_mse: 1.1201
+Epoch 39/50
+533/533 - 1s - 1ms/step - loss: 0.8388 - mae: 0.6717 - mse: 0.8388 - val_loss: 1.1631 - val_mae: 0.8008 - val_mse: 1.1631
+Epoch 40/50
+533/533 - 1s - 1ms/step - loss: 0.8364 - mae: 0.6709 - mse: 0.8364 - val_loss: 1.1250 - val_mae: 0.7972 - val_mse: 1.1250
+Epoch 41/50
+533/533 - 1s - 2ms/step - loss: 0.8311 - mae: 0.6694 - mse: 0.8311 - val_loss: 1.1240 - val_mae: 0.7906 - val_mse: 1.1240
+Epoch 42/50
+533/533 - 1s - 1ms/step - loss: 0.8230 - mae: 0.6642 - mse: 0.8230 - val_loss: 1.1043 - val_mae: 0.7781 - val_mse: 1.1043
+Epoch 43/50
+533/533 - 1s - 1ms/step - loss: 0.8316 - mae: 0.6687 - mse: 0.8316 - val_loss: 1.1120 - val_mae: 0.7844 - val_mse: 1.1120
+Epoch 44/50
+533/533 - 1s - 1ms/step - loss: 0.8211 - mae: 0.6639 - mse: 0.8211 - val_loss: 1.1115 - val_mae: 0.7804 - val_mse: 1.1115
+Epoch 45/50
+533/533 - 1s - 1ms/step - loss: 0.8179 - mae: 0.6634 - mse: 0.8179 - val_loss: 1.1340 - val_mae: 0.7957 - val_mse: 1.1340
+Epoch 46/50
+533/533 - 1s - 1ms/step - loss: 0.8142 - mae: 0.6612 - mse: 0.8142 - val_loss: 1.1478 - val_mae: 0.8000 - val_mse: 1.1478
+Epoch 47/50
+533/533 - 1s - 1ms/step - loss: 0.8097 - mae: 0.6588 - mse: 0.8097 - val_loss: 1.1076 - val_mae: 0.7797 - val_mse: 1.1076
+Epoch 48/50
+533/533 - 1s - 1ms/step - loss: 0.8206 - mae: 0.6655 - mse: 0.8206 - val_loss: 1.1084 - val_mae: 0.7848 - val_mse: 1.1084
+Epoch 49/50
+533/533 - 1s - 1ms/step - loss: 0.8050 - mae: 0.6553 - mse: 0.8050 - val_loss: 1.1499 - val_mae: 0.7991 - val_mse: 1.1499
+Epoch 50/50
+533/533 - 1s - 1ms/step - loss: 0.7991 - mae: 0.6518 - mse: 0.7991 - val_loss: 1.1043 - val_mae: 0.7759 - val_mse: 1.1043
+Training complete.
